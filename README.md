@@ -2,7 +2,7 @@
 
 **LeetMetric** is a clean and interactive web application that allows users to view their **LeetCode statistics** simply by entering their username. It uses an external API to fetch real-time data and presents it in a neat visual format.
 
-![LeetMetric Deployed Website](https://leet-metric-js.vercel.app/)
+[LeetMetric Deployed Website](https://leet-metric-js.vercel.app/)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 📸 Preview
 
-![LeetMetric Deployed Website](https://leet-metric-js.vercel.app/)
+[LeetMetric Deployed Website](https://leet-metric-js.vercel.app/)
 
 ---
 
